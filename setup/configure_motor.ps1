@@ -1,0 +1,1 @@
+python lerobot/scripts/configure_motor.py --port COM5 --brand feetech --model sts3215 --baudrate 1000000 --ID 1
